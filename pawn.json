@@ -1,5 +1,5 @@
 {
-    "user": "Zeex",
+    "user": "HachiroCLI",
     "repo": "samp-plugin-crashdetect",
     "include_path": "include",
     "resources": [
@@ -19,6 +19,6 @@
         }
     ],
     "runtime": {
-        "plugins": ["Zeex/samp-plugin-crashdetect"]
+        "plugins": ["HachiroCLI/samp-plugin-crashdetect"]
     }
 }
